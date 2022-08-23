@@ -8,7 +8,7 @@
 </h1>
 
 <h3>
-A former biologist & financial services professional who followed his passion to be a full stack developer!
+Former biologist & financial services professional who followed his passion to be a full stack developer!
 </h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/fahd-munir" >
